@@ -14,7 +14,7 @@
 
 
 
-![img](index.assets/1e12a3_b75ba26a09f74d81bfed4cb53433803f_mv2-1589710140319.webp)
+![img](index.assets/Annotation 2020-05-15 162358.png)
 
 
 
@@ -26,7 +26,7 @@ Remarque : la variable "TCA" du sujet (dont le nom n'est pas très explicite) co
 
 
 
-![img](index.assets/1e12a3_deeec31e68e34aaf889cd82f8d657fc9_mv2-1589710162489.webp)
+![img](index.assets/Annotation 2020-05-15 163219.png)
 
 
 
@@ -50,7 +50,7 @@ vidéo démonstrative :
 
 Si besoin, les fichiers Yakindu sont disponibles [ici](https://drive.google.com/drive/folders/1cLaok-8nyTqGJd6aL4lobHkKfNDdPCbi). (Cliquer simplement sur "Tout télécharger", à droite)
 
-<img src="index.assets/superbeimagexplicativeesijamaislesgenssaventpastelechargerundossier.png" alt="superbeimagexplicativeesijamaislesgenssaventpastelechargerundossier" style="zoom: 50%;" />
+<img src="index.assets/superbeimagexplicativeesijamaislesgenssaventpastelechargerundossier.png" alt="superbeimagexplicativeesijamaislesgenssaventpastelechargerundossier" width = "700">
 
 
 
@@ -60,23 +60,23 @@ Si besoin, les fichiers Yakindu sont disponibles [ici](https://drive.google.com/
 
 **5 )** 
 
-![img](index.assets/1e12a3_0078770d13254ba0aaf13cbf2bcabc98_mv2.webp)
+![](index.assets/image1.png)
 
-![img](index.assets/1e12a3_296f0c1782084fefaf279f38c1ad5d9f_mv2.webp)
+![](index.assets/image8.png)
 
 **6 )**
 
-![img](index.assets/1e12a3_f8f452407fe540fab8ef8807fd3536f3_mv2.webp)
+<img src="index.assets/20200515_165811.jpg" width="450" >
+
+
+
+
 
 
 
 **7 )** Tracé à la règle et au compas du mécanisme :
 
-
-
-<img src="index.assets/image3.png" alt="image3" style="zoom: 38%;" /><img src="index.assets/image7.png" alt="image7" style="zoom:40%;" />
-
-
+![geogebra 1](index.assets/geogebra 1.png)
 
 et une petite animation pour le plaisir :
 
@@ -96,13 +96,12 @@ et une petite animation pour le plaisir :
 
  tous deux de rayon L. On commence donc par déterminer la position du point  $C$ :
 
-<img src="index.assets/1e12a3_d1ffb92808d94e0581c86cea94ac899a_mv2.webp" alt="img" style="zoom: 80%;" /> bref,   $\begin{cases}x_c = c.\sin(\alpha) - d.cos(\alpha) \\ y_c = d.\sin(\alpha) + c.cos(\alpha) \end{cases}$
-
-
+<img src="index.assets/20200515_173530-01.jpeg" alt="20200515_173530-01" width = "260" /> bref, $\begin{cases}x_c = c.\sin(\alpha) - d.cos(\alpha) \\ y_c = d.\sin(\alpha) + c.cos(\alpha) \end{cases}$  
+(on aurait pu le faire vectoriellement aussi)
 
 On cherche ensuite les points d'intersections de deux cercles, dans le cas général. Ce n'est peut-être pas la méthode la plus simple mais ça fonctionne :
 
-![img](index.assets/1e12a3_5a2e3f3843f842b7b15a742bc6620006_mv2.webp)
+<img src="index.assets/20200515_115815.jpg" width="500" />
 
 
 
