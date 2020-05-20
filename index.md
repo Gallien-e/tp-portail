@@ -90,6 +90,14 @@ et une petite animation pour le plaisir :
 
 
 
+**11 )** Tentative (infructueuse) pour $\theta$ en fonction de $\alpha$ 
+
+<img src="index.assets/20200520_140433.jpg" width = '500'/>
+
+(voir question 12 pour la détermination de $x_C$ et  $ y_C $ ) 
+
+Mais il semblerait que la formule soit erronée, car les résultats ne correspondent pas tout à fait à la modélisation présentée plus haut.
+
 
 
 **12 )** Le point B se trouve à l'intersection des cercles de centres $A (a,b)$ et $C (x_c,y_c)$
