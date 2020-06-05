@@ -1,6 +1,6 @@
 # TP Portail
 
-###### B. Jean-Charles & E. Gallien
+**B. Jean-Charles & E. Gallien**
 
 
 
@@ -50,7 +50,7 @@ vidéo démonstrative :
 
 Si besoin, les fichiers Yakindu sont disponibles [ici](https://drive.google.com/drive/folders/1cLaok-8nyTqGJd6aL4lobHkKfNDdPCbi). (Cliquer simplement sur "Tout télécharger", à droite)
 
-<img src="index.assets/superbeimagexplicativeesijamaislesgenssaventpastelechargerundossier.png" alt="superbeimagexplicativeesijamaislesgenssaventpastelechargerundossier" width = "700">
+<img src="index.assets/superbeimagexplicativeesijamaislesgenssaventpastelechargerundossier.png" alt="superbeimagexplicativeesijamaislesgenssaventpastelechargerundossier" width = "550">
 
 
 
